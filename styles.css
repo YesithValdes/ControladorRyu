@@ -1,0 +1,25 @@
+body{
+    background-color: hsla(187, 20%, 40%, 0.5);
+}
+
+select,#status{
+    max-width: 320px; /* Or whatever width you want */
+}
+
+#status2{
+    max-width: 500px; /* Or whatever width you want */
+}
+
+#cy {
+    width: 100%;
+    height: 600px;
+    border: 1px solid lightgray;
+}
+
+input{
+    max-width: 320px;
+}
+
+.enviar{
+    max-width: 100px;
+}
